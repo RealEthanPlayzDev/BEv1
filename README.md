@@ -13,10 +13,10 @@ rojo build -o BEv1_Rojo.rbxlx
 ```
 
 # History of BloxExecutor
-Back at 2020, I was interested in script builder games, so I used leaked script hub out there to play them.
+Back at 2020, I was interested in script builder games, so I used leaked script hubs out there to play them.
 However overtime, I was frustated with the fact that the scripts would be broken, UI would be bloated, etc, at this point I had decided to create myself a private executor that allows running code on both server-side and client-side, and also has a script hub with working scripts.
 BEv1's development started around July 2020 - August 2020, at that time my vision was to create an operator-level, powerful executor, unfortunately since I had limited time at that time, I was forced to create it basic and simple.
 
 Around December 2020, I had decided to do a major change, which would be BloxExecutor v2 (BEv2), BloxExecutor v2 introduced an rewrite to the code, and multiple components such as BEProtect, BEMusicPlayer, BERawStringExecutor, and 2 more components that were not directly tied to the executor, which was BEAS (BloxExecutor Admin Suite, an administration utility based on Adonis, I had to modify almost the entire core part to make it different that Adonis and to prevent conflicts), and BEDex (A fork of Dark Dex v3, which I heavily modified to implement back almost all features that originally existed on Dex Explorer v2 and an addition FE compability + ability to view ServerStorage and ServerScriptService), BEv2 was **partially** an operator-level executor, it's partial because it's unfortunately weak to script deletion and scripts such as Lighting Canon, Anti-IL, HyperSkidded Canon, etc.
 
-At May 28 2021, I have decided to begin development of BEv3, BEv3 forced me to go back to the drawing board and redesign how it works completely (how it handles the ui, remotfunctions, etc), however the rewrite was much better, as it now allows enchanced protection feature and it no longer weak towards the weaknesses that BEv2 had, until now BEv3's development is still in progress and is currently still unstable.
+At May 28 2021, I have decided to begin development of BEv3, BEv3 forced me to go back to the drawing board and redesign how it works completely (how it handles the ui, remotfunctions, etc), however the rewrite was much better, as it now allows enchanced protection feature and it is no longer weak towards the weaknesses that BEv2 had, until now BEv3's development is still in progress and is currently still unstable.
