@@ -1,6 +1,8 @@
 # BloxExecutor v1
 An very old, archived version of BloxExecutor v1 (BEv1) that was made back at the early days at August 2020.
 
+You are free to use this code for educational purposes, such as learning it, etc. However if you're gonna make your own executor then please make one from scratch instead of basing it with BEv1, BEv1 is quite unoptimized in my opinion.
+
 # Compiling the project to a Roblox place file
 The original version of BEv1 did not use Rojo, so I have converted it into using Rojo.
 Make sure you have Rojo installed and added to your PATH.
