@@ -1,7 +1,6 @@
 # BloxExecutor v1
 An very old, archived version of BloxExecutor v1 (BEv1) that was made back at the early days at August 2020.
 
-BEv1 UI
 ![](https://i.imgur.com/67qO1vj.png)
 
 You are free to use this code for educational purposes, such as learning it, etc. However if you're gonna make your own executor then please make one from scratch instead of basing it with BEv1, BEv1 is quite unoptimized in my opinion.
